@@ -152,7 +152,7 @@ Zero heavy frameworks. Zero vendor lock-in. MIT.
 
 ## License
 
-MIT — see [LICENSE](./LICENSE).
+AliceLabs Source-Available License v1.0 (AL-1.0) — see [LICENSE-AL-1.0](./LICENSE-AL-1.0). Commercial use requires a separate commercial license. Contact: legal@alicelabs.site
 
 ---
 
